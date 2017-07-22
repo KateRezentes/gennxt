@@ -9,7 +9,9 @@
   "author": "Kate Rezentes and Garrett Windham",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
